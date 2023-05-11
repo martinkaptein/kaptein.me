@@ -2,13 +2,15 @@
 
 ## Martin M.C. Kaptein, Pianist, Muziekleraar
 
-**Geboortedatum: 24 Feb 1997**
+Geboortedatum: 24 Feb 1997
 
-Vast adres: Veluweweg 34, 3774 BM Kootwijkerbroek, Nederland.
+Nationaliteit: Nederlandse
 
-Tijdelijk adres: Piazza Gries 19, 39100 Bolzano, Italië.
+Vast adres: Veluweweg 34, 3774 BM Kootwijkerbroek, Nederland
 
-[www.martinkaptein.com](https://martinkaptein.com/) | +31 6 2321 6108 | [martin@martinkaptein.com](mailto:martin@martinkaptein.com)
+Tijdelijk adres: Piazza Gries 19, 39100 Bolzano, Italië
+
+[www.kaptein.me](https://kaptein.me/) | +31 6 2321 6108 | [mk@sonata8.com](mailto:mk@sonata8.com)
 
 ### Algemeen Profiel
 
@@ -20,8 +22,8 @@ Tijdelijk adres: Piazza Gries 19, 39100 Bolzano, Italië.
 
 ### Werkervaring op het gebied van Klassieke Piano, Pianist, Docent
 
-- 2022 KW4 - heden: Plaatsvervangend docent Piano en Solfège, *Conservatorio Monteverdi*, Bolzano, Italië;
-- 2021 - 2022: Pianodocent, Muziekschool Vught, Noord Brabant, Vught;
+- 11/2022 - heden: Plaatsvervangend docent Piano en Solfège, *Conservatorio Monteverdi*, Bolzano, Italië;
+- 04/2021 - 06/2022: Pianodocent, Muziekschool Vught, Noord Brabant, Vught;
 - 2019 - 2020: Coachen en begeleiden van zangers en instrumentalisten, ArtEZ conservatorium, Zwolle, Overijssel, Nederland;
 - 2018 - heden: Privélespraktijk, docent Piano en Muziektheorie.
 
@@ -43,7 +45,7 @@ Tijdelijk adres: Piazza Gries 19, 39100 Bolzano, Italië.
 - 2022 Piano LAB, Bilzen, België;
 - 2022 Online Scriabin 150 Festival in samenwerking met de Scriabin Society of America (als organisator).
 
-### Prijzen
+### Prijzen als Pianist
 
 - 2012 2e prijs internationaal EPTA concours in België;
 - 2015 1e prijs "St. Cecilia International Pianocompetition" in Porto, Portugal;
