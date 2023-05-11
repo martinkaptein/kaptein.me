@@ -1,0 +1,22 @@
+<svg width="576px" height="576px" fill="none" viewBox="0 0 576 576" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--
+box: 2x1
+box: x=480 (y=box/2=240), used for calculations of paths
+
+stroke: box/10
+
+add stroke*2 to total width and height afterwards, mind transformation/translate() too
+In this case:
+width becomes 576
+for square set height to the same as width, adjust coordinate system as well
+-->
+<!-- coordinate system in middle -->
+<g transform="translate(288,288)">
+<!-- remove rect for transparency -->
+<rect fill="#345694" x="-288" y="-288" width="576" height="576" rx="96"></rect>
+<path d="M -240 120 L -80 -120 L 0 0 L 80 -120 L 240 120" fill="none" stroke-width="48" stroke-linecap="round" stroke-linejoin="round" stroke="#ffffff"></path>
+<path d="M -80 120 L -160 0" stroke-linecap="round" fill="none" stroke-width="48" stroke="#ffffff"></path>
+<path d="M 80 120 L 0 0" stroke-linecap="round" fill="none" stroke-width="48" stroke="#ffffff"></path>
+</g>
+
+</svg>

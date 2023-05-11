@@ -1,0 +1,81 @@
+baseURL = "https://kaptein.me"
+title = "Martin Kaptein"
+theme = "tigers"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+#disableKinds = ["taxonomy", "taxonomyTerm"]
+paginate = 30
+disableHugoGeneratorInject = true
+
+[taxonomies]
+  cat = 'cat'
+
+[permalinks]
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+########
+##KEEP IN MIND
+# schema and other header tags hardcoded in custom layouts
+########
+
+# fallback settings, better for them to be defined by language
+[params]
+featuredImage = "/images/banner.jpg"
+# if no bg image set, or cannot be loaded, will fallback on bgColor
+bgImage = "/images/bg.svg"
+bgColor = "#091d28" #average color of orig. bg.jpg: #126283
+logo = "/logo.svg"
+
+
+
+  sitename = "Martin Kaptein"
+  siteAuthor = "Martin Kaptein"
+  description = "The website and blog of Martin Kaptein."
+  RobotsDisallow = ["/dev/"]
+  strNextPage = "Next Page →"
+  strPreviousPage = "← Previous Page"
+  strLinkDescriptor = "Link to homepage of Martin Kaptein."
+
+[languages]
+
+[languages.en] 
+languageName = "English"
+weight = 1
+
+[languages.nl] 
+languageName = "Nederlands"
+weight = 2
+[languages.nl.params]
+# possible param overwrites go here
+strNextPage = "Volgende pagina →"
+strPreviousPage = "← Vorige pagina"
+strLinkDescriptor = "Link naar de hoofdpagina van de website van Martin Kaptein."
+
+#[languages.nl.menu]
+#[[languages.nl.menu.main]]
+#name = "Blog (Engels)"
+#title = "Blog (Engels)"
+#url = "/blog/"
+#weight = 5
+
+[languages.de] 
+languageName = "Deutsch"
+weight = 3
+[languages.de.params]
+## possible param overwrites go here
+strNextPage = "Nächste Seite →" 
+strPreviousPage = "← Vorige Seite"
+strLinkDescriptor = "Link zur Hauptseite auf der Webseite von Martin Kaptein."
+
+[languages.ru] 
+languageName = "Русский"
+[languages.ru.params]
+# possible param overwrites go here
+sitename = 'Мартин Каптейн'
+siteAuthor = 'Мартин Каптейн'
+strNextPage = "Следующая страница →"
+strPreviousPage = "← Предыдущая страница"

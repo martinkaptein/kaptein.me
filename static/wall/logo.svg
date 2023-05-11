@@ -1,0 +1,86 @@
+<svg width="960px" height="960px" fill="none" viewBox="0 0 960 960" owner="Martin (M.M.C.K.) Kaptein" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--
+LICENSE:
+
+Martin Kaptein Logo by Martin Kaptein.
+
+Martin M.M.C. Kaptein | @martinkaptein
+
+www.martinkaptein.com | inbox@mka24.nl
+
+Licensed under the CC BY-NC 4.0 license.
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Free to:
+
+Share — copy and redistribute the material in any medium or format.
+
+Adapt — remix, transform, and build upon the material.
+
+Conditions:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes.
+-->
+<title>Martin Kaptein Logo</title>
+<desc>Martin Kaptein Logo licensed under Creative Commons 4.0 (CC BY-NC 4.0) license, created by Martin Kaptein (M.M.C.K.) using the vim text editor.</desc>
+<!--
+DOCUMENTATION:
+
+When you use the commented svg code examples, make sure to comment out the default ones.
+
+box var set to: box = 240
+
+A rectangle by the relation width = 2 height = 1 is used for calculations of paths.
+
+In this case: height = box = 240, width = box * 2 = 480.
+
+To make the square version the height is later also set to (box * 2).
+
+The mask stroke is set to: box / 10.
+
+The zoomed out version just increases outside width and height to 4 * box (in this case 960x960), useful for wallpapers and art.
+
+-->
+<!-- Remove rectangle for transparency, change rectangle size when you change outside dimensions, if you need a fill background. Optionally set rounded corners for small logo's (e.g. favicon). Set rounded radius in that case to mask-stroke * 2 (96 in this case). In case of a small icon a brighter version of the background works better.-->
+
+<rect x="0" y="0" width="960" height="960" fill="#15223B"></rect>
+
+
+<!-- Example rectangle with rounded corners and brighter background, as derived from default Oxford Blue background. In case you use this it is recommended to set the fill colors to all-white. Comment out the one above in case you use this. -->
+<!--
+<rect x="0" y="0" width="480" height="480" fill="#345694" rx="96"></rect>
+-->
+
+
+<!-- Put coordinate system in middle (divide height and width by 2), adjust it every time you change outside dimensions -->
+<g transform="translate(480,480)">
+
+<mask id="mask">
+<path d="M -240 120 L -80 -120 L 0 0 L 80 -120 L 240 120 L -240 120 M -80 -120 L 80 -120 L 0 0 M -80 120 L -160 0 M 80 120 L 0 0 Z" stroke-width="48" stroke="black" fill="white"></path>
+</mask>
+
+
+<!-- Fill colors and geometry. See below for an all-white version. -->
+<g mask="url(#mask)">
+<path d="M -240 120 L -160 0 L -80 120 Z" stroke-width="48" fill="#679436"></path>
+<path d="M -160 0 L -80 -120 L 80 120 L -80 120 Z" fill="#F6511D"></path>
+<path d="M -80 -120 L 0 0 L 80 -120 Z" fill="#FFB400"></path>
+<path d="M 0 0 L 80 120 L 240 120 L 80 -120 Z" fill="#00A6ED"></path>
+</g>
+
+<!-- All-white fill example. Comment out the one above in case you use this. -->
+<!--
+<g mask="url(#mask)">
+<path d="M -240 120 L -160 0 L -80 120 Z" stroke-width="48" fill="#ffffff"></path>
+<path d="M -160 0 L -80 -120 L 80 120 L -80 120 Z" fill="#ffffff"></path>
+<path d="M -80 -120 L 0 0 L 80 -120 Z" fill="#ffffff"></path>
+<path d="M 0 0 L 80 120 L 240 120 L 80 -120 Z" fill="#ffffff"></path>
+</g>
+-->
+
+</g>
+
+</svg>

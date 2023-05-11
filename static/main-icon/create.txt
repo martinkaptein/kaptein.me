@@ -1,0 +1,25 @@
+just rectangle
+at x=0, y=0
+width & height = 600
+color: #FFA86A - beautiful orange color
+color: #3399cc - Pacific blue
+
+Other color combos:
+
+body background:  #2e3141;
+text: white (#ffffff)
+
+
+# new logo
+
+just rectangle
+at x=0, y=0
+width & height = 420
+background color: #2e3141
+better (average of 8.jpg): #4c5695
+
+in rectangle is circle:
+at (position) x=90, y=90
+size:
+width: 240, height: 240
+fill: #ffffff
