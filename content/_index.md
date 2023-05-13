@@ -23,7 +23,7 @@ metaImage: Martin-Kaptein-reading-artistic.jpg
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
 <img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
 
-Martin Kaptein is a professional [classical pianist](/piano/), [music teacher](/lessons/) and lecturer.
+Martin Kaptein is a professional [classical pianist](/piano/), music [teacher](/teacher/) and lecturer.
 He has a deep curiosity about the world that includes the passion for [philosophy](/books/), the interest for [technology/IT](/tech/) and the knowledge of many languages.
 
 Martin has also founded the [Scriabin Club](https://scriabinclub.com/), a place where conversations about Art and Life are taking place.

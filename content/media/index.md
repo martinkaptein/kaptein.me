@@ -120,11 +120,17 @@ Scriabin - Prelude opus 37 number 1
 
 [Download high resolution](hands-pianist-closeup.jpg)
 
-<!--
-![Martin Kaptein artistic picture in library](library.jpg)
+![Feuerwerk concert](feuerwerk-concert.jpg)
 
-[Download high resolution](library.jpg)
--->
+*Feuerwerk concert*
+
+[High resolution](feuerwerk-concert.jpg)
+
+![Rehearsal](rehearsal.jpg)
+
+*Rehearsal*
+
+[High resolution](rehearsal.jpg)
 
 ## More Media
 
@@ -133,5 +139,3 @@ YouTube channel: [See channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60
 Odysee channel: [odysee.com/@martinkaptein:9](https://odysee.com/@martinkaptein:9)
 
 Instagram: [@martinkaptein](https://instagram.com/martinkaptein)
-
-Scriabin Club: [scriabinclub.com](https://scriabinclub.com/)

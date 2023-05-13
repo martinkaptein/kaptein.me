@@ -92,7 +92,7 @@ Martin is currently based in Bolzano, Italy.
 - [Philosophy](https://martinkaptein.com/books/) (Orthodox Christianity and Chinese Philosophy).
 - [Technology](https://martinkaptein.com/tech/) (Programming, Open-Source projects and tutorials).
 - [Lectures](https://youtube.com/playlist?list=PLJHAmFz9mLV9GxR_I8Z4lN9T3A9A3b_bU) (Presenting, teaching and exploring).
-- [Teaching and coaching](https://martinkaptein.com/lessons/) (Piano and music theory lessons, language and life coaching).
+- [Teaching and coaching](https://martinkaptein.com/teacher/) (Piano and music theory lessons, language and life coaching).
 - [Performing concerts](https://martinkaptein.com/news/) (Solo recitals, chamber music concerts and lecture recitals).
 
 *Updated 29 Mar 2023*
