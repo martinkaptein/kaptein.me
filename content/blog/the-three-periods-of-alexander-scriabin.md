@@ -2,7 +2,7 @@
 title: "The three artistic periods of A.Scriabin"
 date: 2018-06-13
 lastmod: 2019-09-21
-draft: fakse
+draft: false
 categories:
   - Music
 tags:
@@ -17,6 +17,7 @@ description: "The life and three artistic periods of the famous Russian composer
 authors: ["martinkaptein"]
 cat:
   - music
+  - scriabin
 ---
 
 
