@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: martinkaptein.com
-Token: e5c4a47ff8836c50a5085bc3c23bcb81ca1403bf8f7a8b493495d0c84e4a7952
+Domain: kaptein.me
+Token: 6d89fab2355099bd20fda34be294ce2c9b29c2ad66412f2fcc6b7b4888637d58
