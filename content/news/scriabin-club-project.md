@@ -5,6 +5,9 @@ draft: false
 description: "Announcing the new project of Martin Kaptein, called the Scriabin Club. This project is a place where fans and enthusiasts of the great composer Alexander Scriabin find a new home."
 slug: scriabin-club-project
 metaImage: /images/news/sc-banner-cr.jpg
+cat:
+  - news
+  - scriabin
 keywords:
   - Project
   - Martin Kaptein
