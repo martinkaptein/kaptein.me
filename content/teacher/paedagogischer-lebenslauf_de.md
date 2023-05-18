@@ -29,6 +29,7 @@ Vorübergehende Adresse: Piazza Gries 19, 39100 Bozen, Italien
 
 ### Sonstiges
 
+- 07/2020 - 02/2022: Sekretär der *Europäischen Skrjabin Gesellschaft*, Amsterdam, Niederlande;
 - 06/2021 - 06/2022: Meuzelaar Business Solutions for SMEs: Microsoft Dynamics NAV Database Financial Administrations, Heusden, Nordbrabant, Niederlande.
 
 ### Ausbildung

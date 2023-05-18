@@ -29,7 +29,8 @@ Tijdelijk adres: Piazza Gries 19, 39100 Bolzano, Italië
 
 ### Diversen
 
-- 2021 - 2022: Meuzelaar Bedrijfsoplossingen voor MKB bedrijven: Microsoft Dynamics NAV Database Financiële Administraties, Heusden, Noord-Brabant, Nederland.
+- 07/2020 - 02/2022: Secretaris *Europees Skrjabin Genootschap*, Amsterdam, Nederland;
+- 06/2021 - 06/2022: Meuzelaar Bedrijfsoplossingen voor MKB bedrijven: Microsoft Dynamics NAV Database Financiële Administraties, Heusden, Noord-Brabant, Nederland.
 
 ### Opleidingen
 
