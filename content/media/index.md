@@ -132,6 +132,12 @@ Scriabin - Prelude opus 37 number 1
 
 [High resolution](rehearsal.jpg)
 
+![Participant of PianoLAB 2022](pianolab-2022.jpg)
+
+*Participant of PianoLAB 2022*
+
+[Download in high resolution](pianolab-2022.jpg)
+
 ## More Media
 
 YouTube channel: [See channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ)
