@@ -20,11 +20,12 @@ Vorübergehende Adresse: Piazza Gries 19, 39100 Bozen, Italien
 - Teilnahme an und Organisation von internationalen Klaviermeisterkursen und Projekten;
 - Unterricht an Musikschulen als Vertretungslehrer für kranke oder abwesende Hauptfachlehrer. Klassischer Pianist, der bei Konzerten, Klavierwettbewerben und internationalen Festivals auftritt.
 
-### Berufserfahrung im Bereich Klassisches Klavier, Pianist, Pädagoge
+### Berufserfahrung im Bereich klassisches Klavier, Pianist, Pädagoge
 
 - 11/2022 - heute: Stellvertretender Lehrer für Klavier und Solfeggio, *Conservatorio Monteverdi*, Bozen, Italien;
 - 04/2021 - 06/2022: Klavierlehrer, Muziekschool Vught, Noord Brabant, Vught, Niederlande;
 - 2019 - 2020: Coaching und Begleitung von Sängern und Instrumentalisten, ArtEZ Musikhochschule, Zwolle, Niederlande;
+- 01/2021 - 01/2022: Lehrer Nebenfach *klassisches Klavierspiel* für Jazz- Masterstudenten, Fontys Musikhochschule, Tilburg, Niederlande;
 - 2018 - heute: Private Unterrichtspraxis, Lehrer für Klavier und Musiktheorie, Bozen, Italien und Online.
 
 ### Sonstiges

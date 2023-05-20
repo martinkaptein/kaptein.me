@@ -19,9 +19,9 @@ metaImage: Martin-Kaptein-reading-artistic.jpg
 > "...Мартин подходит к музыке как к способу исследования глубочайших вопросов человеческого существования..."
 
 <img style="display:inline-block; margin-right: 1em; margin-bottom: 1em;" alt="Martin Kaptein at the piano portrait picture." src="/images/Martin-Kaptein-at-piano-sq.jpg" width="400" height="400"/>
-<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq.jpg" width="400" height="400" />
+<img style="display:inline-block; margin-bottom: 1em;" alt="Closeup photo of the hands of pianist Martin Kaptein." src="/images/hands-pianist-closeup-sq-co.jpg" width="400" height="400" />
 
-Мартин Каптейн - профессиональный [пианист и музыкант](/music/) и основатель [Скрябинского клуба](https://scriabinclub.com/ru/).
+Мартин Каптейн - профессиональный [пианист и музыкант](/music/) и основатель [Скрябинского клуба](/ru/club/).
 Он хорошо разбирается в технике и говорит на многих языках, включая английский, голландский, немецкий и русский.
 
 Кроме того, Мартин - профессиональный преподаватель фортепиано и педагог.
