@@ -12,6 +12,15 @@ cat:
 
 *(This page is regularly being updated with the latest information.)*
 
+## 30 May 2023
+
+On 30th of May Martin performs several works by A.Scriabin.
+The concert starts 18:30 in the Michelangeli Hall of the conservatory of Bolzano, Italy (*Piazza Domenicani 19, 39100 Bolzano (BZ), Italy*).
+
+![Scriabin Concert Poster](scriabin-concert.jpg)
+
+*Scriabin Concert Poster*
+
 ## 9 May 2023
 
 On 9th of May 2023 there will be a performance of Pyotr Ilyich Tchaikovsky's Trio in A minor, Op. 50, with Martin Kaptein performing the Piano Part.

@@ -39,11 +39,12 @@ Vorübergehende Adresse: Piazza Gries 19, 39100 Bozen, Italien
 - 2020: Bachelor of Music, ArtEZ Musikhochschule, Zwolle, Niederlande;
 - 2015: Gymnasium, Oberstufe, Missionsgymnasium St.Antonius, Bardel, Deutschland;
 
-### Besondere Meisterkurse und Festivals
+### Besondere Meisterkurse und Projekte
 
 - 01/2021 Fleisher Winter Academy Baltimore Piano Festival (Online-Teilnahme);
 - 07/2021 11. Internationale Klaviermeisterkurse, Kattowitz, Polen;
 - 08/2021 Feuerwerk Klavierakademie, Einbeck, Deutschland;
+- 04/2022 Begleitung, Coaching und Auftritte mit einem Amateurchor, Best, Niederlande;
 - 07/2022 Piano LAB, Bilzen, Belgien;
 - 11/2022 Online Scriabin 150 Festival in Zusammenarbeit mit der Scriabin Society of America (als Organisator).
 
@@ -67,4 +68,5 @@ Vorübergehende Adresse: Piazza Gries 19, 39100 Bozen, Italien
 
 - Computerkenntnisse (Python-Programmierung, Website-Erstellung, Linux-Administration);
 - Wissen über verschiedene Kulturen und Philosophien;
-- Unterrichten und Präsentieren vor einer Klasse von Studenten.
+- Unterrichten und Präsentieren vor einer Klasse von Studenten;
+- Führerschein PKW.

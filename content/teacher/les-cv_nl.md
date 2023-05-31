@@ -38,13 +38,14 @@ Tijdelijk adres: Piazza Gries 19, 39100 Bolzano, Italië
 - 2020: Bachelor of Music, ArtEZ Conservatorium, Zwolle, Nederland;
 - 2015: Gymnasium, Middelbare school, Missionsgymnasium St.Antonius, Bardel, Duitsland;
 
-### Speciale Master Cursussen en Festivals
+### Speciale Master Cursussen, Festivals en Projecten
 
-- 2021 Fleisher Winter Academy Baltimore Piano Festival (online deelname);
-- 2021 11th International Piano Masterclasses, Katowice, Polen;
-- 2021 Feuerwerk Piano Academy, Einbeck, Duitsland;
-- 2022 Piano LAB, Bilzen, België;
-- 2022 Online Scriabin 150 Festival in samenwerking met de Scriabin Society of America (als organisator).
+- 01/2021 Fleisher Winter Academy Baltimore Piano Festival (online deelname);
+- 07/2021 11th International Piano Masterclasses, Katowice, Polen;
+- 08/2021 Feuerwerk Piano Academy, Einbeck, Duitsland;
+- 04/2022 Begeleiden, coachen en optreden met het amateurkoor *Sons Kamerkoor*, Best, Nederland;
+- 07/2022 Piano LAB, Bilzen, België;
+- 11/2022 Online Scriabin 150 Festival in samenwerking met de Scriabin Society of America (als organisator).
 
 ### Prijzen als Pianist
 
