@@ -24,12 +24,10 @@ Attribution — You must give appropriate credit, provide a link to the license,
 
 NonCommercial — You may not use the material for commercial purposes.
 -->
-<title>Martin Kaptein's Logo</title>
+<title>Logo(s) of Martin Kaptein.</title>
 <desc>Martin Kaptein Logo licensed under Creative Commons 4.0 (CC BY-NC 4.0) license, created by Martin Kaptein (M.M.C.K.) using the vim text editor.</desc>
 <!--
 DOCUMENTATION:
-
-When you use the commented svg code examples, make sure to comment out the default ones.
 
 box var set to: box = 240
 
@@ -39,35 +37,40 @@ In this case: height = box = 240, width = box * 2 = 480.
 
 To make the square version the height is later also set to (box * 2).
 
-The mask stroke is set to: box / 10.
-
-The zoomed out version just increases outside width and height to 4 * box (in this case 960x960), useful for wallpapers and art.
+The zoomed out version just increases outside width and height to 4 * box (in this case 960x960), useful for wallpapers and art. Of course, can be zoomed out further as well.
 
 -->
+
 <!-- Remove rectangle for transparency, change rectangle size when you change outside dimensions, if you need a fill background. Optionally set rounded corners for small logo's (e.g. favicon). Set rounded radius in that case to mask-stroke * 2 (96 in this case). In case of a small icon a brighter version of the background works better.-->
 
 
-
-<!-- Example rectangle with rounded corners and brighter background, as derived from default dark background color. In case you use this it is recommended to set the fill colors to all-white. Comment out the one above in case you use this. -->
 <rect x="0" y="0" width="480" height="480" fill="#126283" rx="96"></rect>
 
-<!-- Default dark color background version, color is based on default color, with a gradient 0.7 color reduction -->
+<!-- Default dark color background version: #091d28 , rich black. Color is based on default color (#126283 , Lapis Lazuli), with a gradient 0.7 color reduction -->
 
-<!--
-<rect x="0" y="0" width="480" height="480" fill="#091d28"></rect>
--->
 
 
 <!-- Put coordinate system in middle (divide height and width by 2), adjust it every time you change outside dimensions -->
 <g transform="translate(240,240)">
 
-<mask id="mask">
-<path d="M -240 120 L -80 -120 L 0 0 L 80 -120 L 240 120 L -240 120 M -80 -120 L 80 -120 L 0 0 M -80 120 L -160 0 M 80 120 L 0 0 Z" stroke-width="48" stroke="black" fill="white"></path>
-</mask>
+<!--
+<path d="M 0 0 L 80 -120 L 240 120 L 80 120 L 0 0 L -80 -120 L -160 0 L -80 120 L 80 120 L 0 0" stroke-width="48" fill="#ffffff"></path>
+-->
+<!--
+<path d="M 0 0 L 80 -120 L 200 60 L 120 60 L 80 0 L 0 120 L -80 0 L -120 60 L -160 120 L -240 120 L -120 -60 L -40 -60 L 0 0" stroke-width="0" fill="#ffffff"></path>
+-->
 
-<g mask="url(#mask)">
-<path d="M -240 120 L -80 -120 L 0 0 L 80 -120 L 240 120 L -240 120 M -80 -120 L 80 -120 L 0 0 M -80 120 L -160 0 M 80 120 L 0 0 Z" stroke-width="48" fill="#ffffff"></path>
-</g>
+<!--
+Letter M, Mountain Color: #66999B , Moonstone. Alternative: #ffffff , White.
+-->
+
+<path d="M -15 15 L 80 -120 L 240 120 L 160 120 L 80 0 L 0 120 L -80 30 L -160 120 L -240 120 L -80 -60 L -15 15" stroke-width="0" fill="#F7EBEC"></path>
+
+<!--
+Circle color: #F7EBEC , Lavender Blush. Alternative: #ffffff , White.
+--> 
+<circle cx="-30" cy="-96" r="24" fill="#F7EBEC"/>
+
 
 </g>
 

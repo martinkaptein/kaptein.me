@@ -1,4 +1,4 @@
-<svg width="480px" height="480px" fill="none" viewBox="0 0 480 480" owner="Martin (M.M.C.K.) Kaptein" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1920px" height="1920px" fill="none" viewBox="0 0 1920 1920" owner="Martin (M.M.C.K.) Kaptein" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <!--
 LICENSE:
 
@@ -44,11 +44,17 @@ The zoomed out version just increases outside width and height to 4 * box (in th
 <!-- Remove rectangle for transparency, change rectangle size when you change outside dimensions, if you need a fill background. Optionally set rounded corners for small logo's (e.g. favicon). Set rounded radius in that case to mask-stroke * 2 (96 in this case). In case of a small icon a brighter version of the background works better.-->
 
 
+<!--
+<rect x="0" y="0" width="480" height="480" fill="#126283" rx="96"></rect>
+-->
+
 <!-- Default dark color background version: #091d28 , rich black. Color is based on default color (#126283 , Lapis Lazuli), with a gradient 0.7 color reduction -->
+
+<rect x="0" y="0" width="1920" height="1920" fill="#091d28"></rect>
 
 
 <!-- Put coordinate system in middle (divide height and width by 2), adjust it every time you change outside dimensions -->
-<g transform="translate(240,240)">
+<g transform="translate(960,960)">
 
 <!--
 <path d="M 0 0 L 80 -120 L 240 120 L 80 120 L 0 0 L -80 -120 L -160 0 L -80 120 L 80 120 L 0 0" stroke-width="48" fill="#ffffff"></path>
@@ -61,12 +67,12 @@ The zoomed out version just increases outside width and height to 4 * box (in th
 Letter M, Mountain Color: #66999B , Moonstone. Alternative: #ffffff , White.
 -->
 
-<path d="M -15 15 L 80 -120 L 240 120 L 160 120 L 80 0 L 0 120 L -80 30 L -160 120 L -240 120 L -80 -60 L -15 15" stroke-width="0" fill="#ffffff"></path>
+<path d="M -15 15 L 80 -120 L 240 120 L 160 120 L 80 0 L 0 120 L -80 30 L -160 120 L -240 120 L -80 -60 L -15 15" stroke-width="0" fill="#66999B"></path>
 
 <!--
 Circle color: #F7EBEC , Lavender Blush. Alternative: #ffffff , White.
 --> 
-<circle cx="-30" cy="-96" r="24" fill="#ffffff"/>
+<circle cx="-30" cy="-96" r="24" fill="#F7EBEC"/>
 
 
 </g>
